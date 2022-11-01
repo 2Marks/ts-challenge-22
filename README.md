@@ -94,6 +94,6 @@ Has an auto retry system that caters for messages not successfully processed.
 <!-- Database structure -->
 ## Database structure
 Please find below ERD for the proposed database structure.
-[![ERD ][database structure]](https://drive.google.com/file/d/1CYkyo0n_PBjJ8Hy5MSaDR8Gg5N2nuSLx/view?usp=share_link)
+![ERD](https://drive.google.com/file/d/1CYkyo0n_PBjJ8Hy5MSaDR8Gg5N2nuSLx/view?usp=share_link)
 
 Thanks.
