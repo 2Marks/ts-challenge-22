@@ -103,3 +103,4 @@ Please find below ERD for the proposed database structure.
 ![ERD](https://github.com/2Marks/ts-challenge-22/blob/main/erd.png?raw=true)
 
 Thanks.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
