@@ -14,7 +14,7 @@ Please ensure you have node and npm install on your machine
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/2marks/ts-assessment-challenge.git
+   git clone https://github.com/2Marks/ts-challenge-22.git
    ```
 2. Install NPM packages
    ```sh
